@@ -1,0 +1,3579 @@
+#sayfa{
+    position: relative;
+width: 1596px;
+height: 6272px;
+
+background: #FFFFFF;
+}
+
+#logo{
+    position: absolute;
+top: 18.22px;
+}
+
+#kategorilerbtn{
+    position: absolute;
+width: 87px;
+height: 20px;
+left: 157px;
+top: 32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+
+color: #000000;
+
+}
+ 
+
+#kategorilerbtn:hover{
+    color: #5019ED;
+}
+
+#aramacubuğu{
+    position: absolute;
+width: 369.27px;
+height: 56.43px;
+left: 275.22px;
+top: 19.54px;
+border: none;
+background: #EAEAEA;
+border-radius: 29.4664px;
+
+}
+
+#searchicon{
+    position: absolute;
+width: 50.49px;
+height: 40.77px;
+left: 283.14px;
+top: 32.5px;
+color: #C2C2C2;
+font-size: 30px;
+}
+
+::placeholder{
+    position: absolute;
+    width: 171px;
+    height: 20px;
+    left: 60px;
+    top: 17px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.8206px;
+    line-height: 20px;
+    
+    color: #6F6F6F;
+     
+}
+ 
+input[type=search] {
+   
+    color: #6F6F6F;
+}
+
+#text1{
+    position: absolute;
+width: 132px;
+height: 20px;
+left: 678.15px;
+top: 41.32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+
+color: #000000;
+
+}
+
+#text1:hover{
+    color: #5019ED;
+}
+
+#text2{
+    position: absolute;
+width: 184px;
+height: 20px;
+left: 844.46px;
+top: 41.58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+
+color: #000000;
+
+}
+
+#text2:hover{
+    color: #5019ED;
+}
+
+#sepeticon{
+    position: absolute;
+width: 29.7px;
+height: 29.7px;
+left: 1054.34px;
+top: 36.63px;
+font-size: 27px;
+color: #000000;
+}
+
+#sepeticon:hover{
+    
+    color: #5019ED;
+}
+
+#box1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 88.78px;
+height: 31.68px;
+left: 1117.7px;
+top: 34.65px;
+
+background: #FFFFFF;
+border: 1.53072px solid #000000;
+
+ 
+}
+
+#box1txt{
+    position: absolute;
+width: 66px;
+height: 32px;
+left: 1129.58px;
+top: 41.58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 13.2586px;
+line-height: 16px;
+
+color: #000000;
+
+}
+
+#box2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 88.78px;
+height: 31.68px;
+left: 1215.71px;
+top: 34.65px;
+
+background: #000000;
+border: 1.53072px solid #000000;
+}
+
+#box2txt{
+    position: absolute;
+width: 45px;
+height: 16px;
+left: 1237.49px;
+top: 42.57px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 13.2586px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+#box3{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 44.55px;
+height: 31.68px;
+left: 1313.72px;
+top: 35.64px;
+
+background: #FFFFFF;
+border: 1.53072px solid #000000;
+}
+
+#box3img{
+    position: absolute;
+left: 1317px;
+top: 42px;
+}
+
+#banner{
+    position: absolute;
+left: 23.5px;
+top: 87px;
+
+}
+
+#box4{
+    position: absolute;
+width: 538px;
+height: 325px;
+left: 140px;
+top: 161px;
+
+background: #FFFFFF;
+}
+
+#box4baslik{
+    position: absolute;
+width: 450px;
+height: 96px;
+left: 171px;
+top: 177px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+}
+
+#box4aciklama{
+    position: absolute;
+width: 467px;
+height: 92px;
+left: 168px;
+top: 279px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 19.4157px;
+line-height: 23px;
+
+color: #3B3B3B;
+}
+
+#box4btn{
+    position: absolute;
+width: 233px;
+height: 66px;
+left: 168px;
+top: 379px;
+
+background: #000000;
+}
+
+#box4btntxt{
+    position: absolute;
+width: 188px;
+height: 24px;
+left: 185px;
+top: 400px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
+
+#txt1{
+    position: absolute;
+width: 485px;
+height: 58px;
+left: 59px;
+top: 595.85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+}
+
+#txt2{
+    position: absolute;
+width: 862px;
+height: 30px;
+left: 59px;
+top: 664.85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25.0851px;
+line-height: 30px;
+
+color: #3B3B3B;
+
+}
+
+#python{
+    position: absolute;
+width: 88px;
+height: 30px;
+left: 75px;
+top: 709.85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25.0851px;
+line-height: 30px;
+
+color:#000000;
+}
+
+#excel{
+    position: absolute;
+width: 66px;
+height: 30px;
+left: 185px;
+top: 709.85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25.0851px;
+line-height: 30px;
+
+color: #717171;
+
+}
+
+#excel:hover{
+    color: #000000;
+}
+
+#wg{
+    position: absolute;
+width: 188px;
+height: 30px;
+left: 279px;
+top: 709.85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25.0851px;
+line-height: 30px;
+
+color: #717171;
+
+}
+
+#wg:hover{
+    color: #000000;
+}
+
+#js{
+    position: absolute;
+width: 132px;
+height: 30px;
+left: 484px;
+top: 709.85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25.0851px;
+line-height: 30px;
+
+color: #717171;
+
+}
+
+#js:hover{
+    color: #000000;
+}
+
+#vb{
+    position: absolute;
+width: 122px;
+height: 30px;
+left: 633px;
+top: 709.85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25.0851px;
+line-height: 30px;
+
+color: #717171;
+
+}
+
+#vb:hover{
+    color: #000000;
+}
+
+#awss{
+    position: absolute;
+width: 251px;
+height: 30px;
+left: 772px;
+top: 709.85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25.0851px;
+line-height: 30px;
+
+color: #717171;
+}
+
+#awss:hover{
+    color: #000000;
+}
+
+#cizim{
+    position: absolute;
+width: 70px;
+height: 30px;
+left: 1037px;
+top: 709.85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25.0851px;
+line-height: 30px;
+
+color: #717171;
+
+}
+
+#cizim:hover{
+    color: #000000;
+}
+
+#box5{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1508px;
+height: 687px;
+left: 41px;
+top: 757px;
+
+background: #FFFFFF;
+border: 1.01272px solid #858484;
+}
+
+#box5baslik{
+    position: absolute;
+width: 740px;
+height: 48px;
+left: 65px;
+top: 784.85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+}
+
+#box5aciklama{
+    position: absolute;
+width: 1078px;
+height: 87px;
+left: 65px;
+top: 847.85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
+
+#box5btn{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 255px;
+height: 55px;
+left: 65px;
+top: 955.85px;
+
+background: #FFFFFF;
+border: 1.53072px solid #000000;
+}
+
+#box5btntxt{
+    position: absolute;
+width: 236px;
+height: 22px;
+left: 75px;
+top: 972.85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18.4375px;
+line-height: 22px;
+
+color: #000000;
+
+}
+
+#ders1{
+    position: absolute;
+left: 148px;
+top: 1064px;
+
+}
+
+#ders1{
+    opacity: 1;
+}
+
+#ders1:hover{
+    opacity: 0.5;
+   
+}
+
+#ders1baslik{
+    position: absolute;
+width: 206px;
+height: 36px;
+left: 148px;
+top: 1188px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+
+}
+
+#ders1name{
+    position: absolute;
+width: 152px;
+height: 17px;
+left: 148px;
+top: 1231px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+
+color: #949494;
+
+}
+
+#ders1puan{
+    position: absolute;
+width: 21px;
+height: 15px;
+left: 148px;
+top: 1251px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 12px;
+line-height: 15px;
+
+color: #C15010;
+
+}
+
+#yildiz1{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 169px;
+top: 1251px;
+color: #F77600;
+font-size: 10px;
+}
+
+#yildiz2{
+ 
+position: absolute;
+width: 15px;
+height: 15px;
+left: 184px;
+top: 1251px;
+color: #F77600;
+font-size: 10px;
+}
+
+#yildiz3{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 199px;
+top: 1251px;
+color: #F77600;
+font-size: 10px;
+}
+
+#yildiz4{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 214px;
+    top: 1251px;
+    color: #F77600;
+    font-size: 10px;
+}
+
+#yildiz5{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 229px;
+top: 1251px;
+color: #F77600;
+font-size: 10px;
+
+}
+
+#yildizpuani{
+    position: absolute;
+width: 43px;
+height: 15px;
+left: 246px;
+top: 1251px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+
+color: #949494;
+}
+
+#ders1fiyat{
+    position: absolute;
+width: 55px;
+height: 16px;
+left: 148px;
+top: 1273px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 16px;
+
+
+color: #000000;
+
+}
+
+#ecsbox{
+    position: absolute;
+width: 112px;
+height: 21px;
+left: 148px;
+top: 1296px;
+
+background: #E1B824;
+}
+
+#ecsboxtxt{
+    position: absolute;
+width: 90px;
+height: 17px;
+left: 159px;
+top: 1298px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+
+color: #121212;
+
+}
+
+#ders2{
+    position: absolute;
+left: 409px;
+top: 1061px;
+
+}
+
+#ders2{
+    opacity: 1;
+}
+
+#ders2:hover{
+    opacity: 0.5;
+}
+
+#ders2baslik{
+    position: absolute;
+width: 177px;
+height: 36px;
+left: 409px;
+top: 1192px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+
+}
+
+#ders2name{
+    position: absolute;
+width: 98px;
+height: 34px;
+left: 409px;
+top: 1234px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+color: #949494;
+
+}
+
+#ders2puan{
+    position: absolute;
+width: 21px;
+height: 15px;
+left: 409px;
+top: 1253px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 12px;
+line-height: 15px;
+
+
+color: #C15010;
+
+}
+
+#d2yildiz1{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 430px;
+top: 1253px;
+color: #F77600;
+font-size: 10px;
+}
+
+#d2yildiz2{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 445px;
+    top: 1253px;
+    color: #F77600;
+    font-size: 10px;
+    
+}
+
+#d2yildiz3{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 460px;
+    top: 1253px;
+    color: #F77600;
+    font-size: 10px;
+}
+
+#d2yildiz4{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 475px;
+top: 1253px;
+color: #F77600;
+font-size: 10px;
+}
+
+#yildizpuani2{
+    position: absolute;
+width: 48px;
+height: 15px;
+left: 492px;
+top: 1253px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+
+color: #949494;
+
+}
+
+#ders2fiyat{
+    position: absolute;
+width: 55px;
+height: 16px;
+left: 409px;
+top: 1276px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 16px;
+
+color: #000000;
+
+}
+
+#ders3{
+    position: absolute;
+left: 670px;
+top: 1061px;
+
+}
+
+#ders3{
+    opacity: 1;
+}
+
+#ders3:hover{
+    opacity: 0.5;
+}
+
+
+
+#ders3baslik{
+    position: absolute;
+width: 149px;
+height: 54px;
+left: 670px;
+top: 1188px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+
+}
+
+#ders3name{
+    position: absolute;
+width: 84px;
+height: 34px;
+left: 670px;
+top: 1231px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+color: #949494;
+
+}
+
+#ders3puan{
+    position: absolute;
+width: 21px;
+height: 15px;
+left: 670px;
+top: 1256px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 12px;
+line-height: 15px;
+
+color: #C15010;
+
+}
+
+#d3yildiz1{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 693px;
+top: 1257px;
+color: #F77600;
+font-size: 10px;
+}
+
+#d3yildiz2{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 708px;
+    top: 1257px;
+    color: #F77600;
+    font-size:10px ;
+}
+
+#d3yildiz3{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 723px;
+top: 1257px;
+color: #F77600;
+font-size: 10px;
+
+}
+
+#d3yildiz4{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 738px;
+    top: 1257px;
+    color: #F77600;
+    font-size: 10px ;
+}
+
+#yildizpuani3{
+    position: absolute;
+width: 41px;
+height: 15px;
+left: 754px;
+top: 1257px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+
+color: #949494;
+
+}
+
+#ders3fiyat{
+    position: absolute;
+width: 55px;
+height: 16px;
+left: 673px;
+top: 1283px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 16px;
+
+color: #000000;
+
+}
+
+#ders4{
+    position: absolute;
+left: 951px;
+top: 1061px;
+
+}
+
+#ders4{
+    opacity: 1;
+}
+
+#ders4:hover{
+    opacity: 0.5;
+}
+
+#ders4baslik{
+    position: absolute;
+width: 209px;
+height: 54px;
+left: 951px;
+top: 1197px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+
+}
+
+#ders4name{
+    position: absolute;
+width: 98px;
+height: 34px;
+left: 951px;
+top: 1237px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+color: #949494;
+
+}
+
+#ders4puan{
+    position: absolute;
+width: 21px;
+height: 15px;
+left: 951px;
+top: 1263px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 12px;
+line-height: 15px;
+
+
+color: #C15010;
+
+}
+
+#d4yildiz1{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 974px;
+top: 1263px;
+color: #F77600;
+font-size: 10px;
+
+}
+
+#d4yildiz2{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 989px;
+top: 1263px;
+color: #F77600;
+font-size: 10px;
+}
+
+#d4yildiz3{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 1004px;
+top: 1263px;
+color: #F77600;
+font-size: 10px;
+
+}
+
+#d4yildiz4{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 1019px;
+    top: 1263px;
+    color: #F77600;
+    font-size: 10px;
+
+}
+
+#yildizpuani4{
+    position: absolute;
+width: 43px;
+height: 15px;
+left: 1033px;
+top: 1263px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+
+color: #949494;
+}
+
+#ders4fiyat{
+    position: absolute;
+width: 53px;
+height: 16px;
+left: 954px;
+top: 1283px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 16px;
+
+
+
+color: #000000;
+
+}
+
+#ders5{
+    position: absolute;
+left: 1240px;
+top: 1061px;
+}
+
+#ders5{
+    opacity: 1;
+}
+
+#ders5:hover{
+    opacity: 0.5;
+}
+
+#ders5baslik{
+    position: absolute;
+width: 231px;
+height: 54px;
+left: 1240px;
+top: 1197px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+}
+
+#ders5name{
+    position: absolute;
+width: 84px;
+height: 34px;
+left: 1240px;
+top: 1237px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+color: #949494;
+
+}
+
+#ders5puan{
+    
+position: absolute;
+width: 21px;
+height: 15px;
+left: 1240px;
+top: 1261px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 12px;
+line-height: 15px;
+
+
+color: #C15010;
+
+}
+
+#d5yildiz1{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 1264px;
+top: 1261px;
+color: #F77600;
+font-size: 10px;
+}
+
+#d5yildiz2{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 1279px;
+top: 1261px;
+color: #F77600;
+font-size: 10px;
+}
+
+#d5yildiz3{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 1294px;
+top: 1261px;
+color: #F77600;
+font-size: 10px;
+}
+
+#d5yildiz4{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 1309px;
+top: 1261px;
+color: #F77600;
+font-size:10px ;
+}
+
+#yildizpuani5{
+    
+position: absolute;
+width: 41px;
+height: 15px;
+left: 1324px;
+top: 1261px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+
+color: #949494;
+
+}
+
+#ders5fiyat{
+    position: absolute;
+width: 54px;
+height: 16px;
+left: 1245px;
+top: 1283px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 16px;
+
+
+color: #000000;
+}
+
+#contanier1{
+    position: absolute;
+width: 1622px;
+height: 162px;
+left: -25px;
+top: 1501px;
+
+background: #E2E2E2;
+}
+
+
+#nesne1{
+    position: absolute;
+left: 22px;
+top: 1527px;
+
+}
+
+#nesne1txt{
+    
+position: absolute;
+width: 364px;
+height: 50px;
+left: 172px;
+top: 1573px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20.85px;
+line-height: 25px;
+
+color: #000000;
+
+}
+
+
+#nesne2{
+    position: absolute;
+left: 573px;
+top: 1527px;
+}
+
+#nesne2txt{
+    position: absolute;
+width: 359px;
+height: 50px;
+left: 710px;
+top: 1573px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20.85px;
+line-height: 25px;
+
+color: #000000;
+
+}
+
+
+#nesne3{
+    position: absolute;
+left: 1072px;
+top: 1508px;
+}
+
+#nesne3txt{
+    position: absolute;
+width: 335px;
+height: 75px;
+left: 1223px;
+top: 1558px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20.8542px;
+line-height: 25px;
+
+color: #000000;
+
+}
+
+#baslik2{
+    position: absolute;
+width: 792px;
+height: 48px;
+left: 68px;
+top: 1708px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+}
+
+#ogrenci1{
+    position: absolute;
+left: 109px;
+top: 1801px;
+}
+
+#ogrenci1{
+    opacity: 1;
+}
+
+
+#ogrenci1:hover{
+
+    opacity: 0.5;
+}
+
+
+#ogrenci1baslik{
+    position: absolute;
+width: 195px;
+height: 36px;
+left: 109px;
+top: 1933px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+
+}
+
+#ogrenci1name{
+    position: absolute;
+width: 83px;
+height: 17px;
+left: 109px;
+top: 1975px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+color: #949494;
+
+}
+
+#ogrenci1puan{
+    position: absolute;
+width: 21px;
+height: 15px;
+left: 111px;
+top: 1998px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 12px;
+line-height: 15px;
+
+color: #C15010;
+}
+
+#ogrenciyildiz1{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 134px;
+top: 1998px;
+color: #F77600;
+font-size: 10px;
+
+
+}
+
+#ogrenciyildiz2{
+  
+position: absolute;
+width: 15px;
+height: 15px;
+left: 149px;
+top: 1998px;
+color: #F77600;
+font-size: 10px;
+
+
+}
+
+#ogrenciyildiz3{
+  
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 164px;
+top: 1998px;
+color: #F77600;
+font-size: 10px;
+    
+    
+ }
+
+ #ogrenciyildiz4{
+
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 179px;
+top: 1998px;
+color:#F77600;
+font-size: 10px;
+  
+  
+ }
+
+ #ogrenciyildizpuani1{
+    position: absolute;
+width: 48px;
+height: 15px;
+left: 195px;
+top: 1998px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+
+color: #949494;
+ }
+
+ #ogrenci1fiyat{
+    position: absolute;
+width: 55px;
+height: 16px;
+left: 113px;
+top: 2017px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 16px;
+
+
+color: #000000;
+
+ }
+
+ #ogrbox1{
+    position: absolute;
+width: 112px;
+height: 21px;
+left: 113px;
+top: 2042px;
+
+background: #E1B824;
+ }
+
+
+ #ogrbox1txt{
+    position: absolute;
+width: 90px;
+height: 17px;
+left: 123px;
+top: 2044px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+
+color: #121212;
+ }
+
+ /*öğrenci Ders2*/
+
+
+ #ogrenci2{
+    position: absolute;
+    left: 383px;
+    top: 1807px;
+}
+
+#ogrenci2{
+    opacity: 1;
+}
+
+
+#ogrenci2:hover{
+
+    opacity: 0.5;
+}
+
+
+#ogrenci2baslik{
+    position: absolute;
+    width: 206px;
+    height: 36px;
+    left: 383px;
+    top: 1939px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    
+    color: #000000;
+    
+}
+
+#ogrenci2name{
+    position: absolute;
+    width: 152px;
+    height: 17px;
+    left: 383px;
+    top: 1981px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    
+    
+
+    color: #949494;
+    
+}
+
+#ogrenci2puan{
+    position: absolute;
+    width: 21px;
+    height: 15px;
+    left: 383px;
+    top: 2004px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12px;
+    line-height: 15px;
+
+    
+    color: #C15010;
+    
+}
+
+#d2ogrenciyildiz1{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 406px;
+    top: 2004px;
+    color: #F77600;
+    font-size: 10px;
+
+
+}
+
+#d2ogrenciyildiz2{
+  
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 421px;
+    top: 2004px;
+    color: #F77600;
+    font-size: 10px;
+    
+
+
+}
+
+#d2ogrenciyildiz3{
+  
+    
+position: absolute;
+width: 15px;
+height: 15px;
+left: 436px;
+top: 2004px;
+color: #F77600;
+font-size: 10px;
+
+
+    
+ }
+
+ #d2ogrenciyildiz4{
+
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 451px;
+    top: 2004px;
+    color: #F77600;
+    font-size: 10px;
+    
+  
+  
+ }
+
+ #ogrenciyildizpuani2{
+    position: absolute;
+    width: 43px;
+    height: 15px;
+    left: 465px;
+    top: 2004px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #949494;
+ }
+
+ #ogrenci2fiyat{
+    position: absolute;
+    width: 55px;
+    height: 16px;
+    left: 383px;
+    top: 2020px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 16px;
+
+    
+    color: #000000;
+ }
+
+ #ogrbox2{
+    position: absolute;
+    width: 112px;
+    height: 21px;
+    left: 380px;
+    top: 2042px;
+    
+    background: #E1B824;
+ }
+
+
+ #ogrbox2txt{
+   
+position: absolute;
+width: 90px;
+height: 17px;
+left: 390px;
+top: 2044px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+
+color: #121212;
+
+ }
+
+ /*öğrenci Ders3*/
+
+ #ogrenci3{
+    position: absolute;
+    left: 643px;
+    top: 1807px;
+    
+}
+
+#ogrenci3{
+    opacity: 1;
+}
+
+
+#ogrenci3:hover{
+
+    opacity: 0.5;
+}
+
+
+#ogrenci3baslik{
+    position: absolute;
+width: 177px;
+height: 36px;
+left: 642px;
+top: 1943px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+
+}
+
+#ogrenci3name{
+    position: absolute;
+    width: 79px;
+    height: 17px;
+    left: 643px;
+    top: 1981px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+  
+    
+
+    color: #949494;
+    
+}
+
+#ogrenci3puan{
+    position: absolute;
+width: 21px;
+height: 15px;
+left: 647px;
+top: 2005px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 12px;
+line-height: 15px;
+
+
+color: #C15010;
+
+    
+}
+
+#d3ogrenciyildiz1{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 668px;
+top: 2005px;
+color: #F77600;
+font-size: 10px;
+
+}
+
+#d3ogrenciyildiz2{
+  
+    
+position: absolute;
+width: 15px;
+height: 15px;
+left: 683px;
+top: 2005px;
+color: #F77600;
+font-size: 10px;
+    
+
+
+}
+
+#d3ogrenciyildiz3{
+
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 698px;
+top: 2005px;
+color: #F77600;
+font-size: 10px;
+  
+    
+ }
+
+ #d3ogrenciyildiz4{
+
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 713px;
+    top: 2005px;
+    color: #F77600;
+    font-size: 10px;
+    
+ }
+
+ #ogrenciyildizpuani3{
+    position: absolute;
+width: 50px;
+height: 15px;
+left: 725px;
+top: 2005px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+
+
+color: #949494;
+
+ }
+
+ #ogrenci3fiyat{
+    position: absolute;
+width: 53px;
+height: 16px;
+left: 651px;
+top: 2020px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #000000;
+ }
+
+ #ogrbox3{
+    position: absolute;
+    width: 112px;
+    height: 21px;
+    left: 641px;
+    top: 2042px;
+    
+    background: #E1B824
+ }
+
+
+ #ogrbox3txt{
+    position: absolute;
+    width: 90px;
+    height: 17px;
+    left: 651px;
+    top: 2044px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #121212;
+
+ }
+
+
+
+ /*öğrenci Ders4*/
+
+
+
+ #ogrenci4{
+    position: absolute;
+left: 916px;
+top: 1807px;
+}
+
+#ogrenci4{
+    opacity: 1;
+}
+
+
+#ogrenci4:hover{
+
+    opacity: 0.5;
+}
+
+
+#ogrenci4baslik{
+    
+position: absolute;
+width: 205px;
+height: 36px;
+left: 916px;
+top: 1947px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+
+    
+}
+
+#ogrenci4name{
+    position: absolute;
+width: 102px;
+height: 17px;
+left: 917px;
+top: 1984px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #949494;
+    
+}
+
+#ogrenci4puan{
+   
+position: absolute;
+width: 21px;
+height: 15px;
+left: 923px;
+top: 2005px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #C15010;
+
+}
+
+#d4ogrenciyildiz1{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 944px;
+    top: 2005px;
+    color: #F77600;
+    font-size: 10px;
+
+}
+
+#d4ogrenciyildiz2{
+  
+    
+position: absolute;
+width: 15px;
+height: 15px;
+left: 959px;
+top: 2005px;
+color: #F77600;
+font-size: 10px;
+    
+
+
+}
+
+#d4ogrenciyildiz3{
+  
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 974px;
+    top: 2005px;
+    color: #F77600;
+    font-size: 10px;
+
+    
+ }
+
+ #d4ogrenciyildiz4{
+
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 989px;
+    top: 2005px;
+    color: #F77600;
+    font-size: 10px;
+ }
+
+ #ogrenciyildizpuani4{
+    position: absolute;
+width: 46px;
+height: 15px;
+left: 1005px;
+top: 2005px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #949494;
+
+ }
+
+ #ogrenci4fiyat{
+    position: absolute;
+width: 55px;
+height: 16px;
+left: 929px;
+top: 2023px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 16px;
+
+
+color: #000000;
+
+ }
+
+ #ogrbox4{
+    position: absolute;
+width: 112px;
+height: 21px;
+left: 923px;
+top: 2042px;
+
+background: #E1B824;
+ }
+
+
+ #ogrbox4txt{
+   
+    position: absolute;
+    width: 90px;
+    height: 17px;
+    left: 933px;
+    top: 2044px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    
+    
+    color: #121212;
+    
+
+ }
+
+
+ /* Öğrenci Ders 5*/
+
+
+ #ogrenci5{
+    position: absolute;
+    left: 1181px;
+    top: 1811px;
+    
+}
+
+#ogrenci5{
+    opacity: 1;
+}
+
+
+#ogrenci5:hover{
+
+    opacity: 0.5;
+}
+
+
+#ogrenci5baslik{
+    position: absolute;
+width: 172px;
+height: 18px;
+left: 1181px;
+top: 1943px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+}
+
+#ogrenci5name{
+    position: absolute;
+    width: 216px;
+    height: 17px;
+    left: 1181px;
+    top: 1966px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #949494;
+    
+}
+
+#ogrenci5puan{
+    position: absolute;
+    width: 21px;
+    height: 15px;
+    left: 1181px;
+    top: 1988px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12px;
+    line-height: 15px;
+   
+    
+    color: #C15010;
+    
+    
+}
+
+#d5ogrenciyildiz1{
+    
+position: absolute;
+width: 15px;
+height: 15px;
+left: 1202px;
+top: 1988px;
+color: #F77600;
+font-size: 10px;
+
+
+}
+
+#d5ogrenciyildiz2{
+  
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 1217px;
+top: 1988px;
+color: #F77600;
+font-size: 10px;    
+
+
+}
+
+#d5ogrenciyildiz3{
+  
+    
+
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 1232px;
+    top: 1988px;
+    color: #F77600;
+    font-size: 10px;   
+ }
+
+ #d5ogrenciyildiz4{
+
+    
+position: absolute;
+width: 15px;
+height: 15px;
+left: 1247px;
+top: 1988px;
+color: #F77600;
+font-size: 10px;
+    
+  
+  
+ }
+
+ #ogrenciyildizpuani5{
+    position: absolute;
+width: 46px;
+height: 15px;
+left: 1265px;
+top: 1988px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #949494;
+
+ }
+
+ #ogrenci5fiyat{
+    
+position: absolute;
+width: 55px;
+height: 16px;
+left: 1189px;
+top: 2023px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 16px;
+
+
+
+color: #000000;
+
+ }
+
+ #ogrbox5{
+    position: absolute;
+width: 112px;
+height: 21px;
+left: 1181px;
+top: 2047px;
+
+background: #E1B824;
+ }
+
+
+ #ogrbox5txt{
+   
+
+    position: absolute;
+    width: 90px;
+    height: 17px;
+    left: 1191px;
+    top: 2049px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #121212;
+    
+
+ }
+
+ #baslik3{
+    position: absolute;
+width: 445px;
+height: 48px;
+left: 68px;
+top: 2142px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+ }
+
+ #tasarim{
+    
+position: absolute;
+left: 123px;
+top: 2240px;
+
+ }
+
+ #tasarimtxt{
+    
+position: absolute;
+width: 94px;
+height: 29px;
+left: 142px;
+top: 2540px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+
+ #yazilimgelistirme{
+    position: absolute;
+left: 474px;
+top: 2236px;
+ }
+
+ #yazilimgelistirmetxt{
+    
+position: absolute;
+width: 211px;
+height: 29px;
+left: 480px;
+top: 2540px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+
+
+ #pazarlama{
+    position: absolute;
+left: 825px;
+top: 2240px;
+
+ }
+
+ #pazarlamatxt{
+    position: absolute;
+width: 123px;
+height: 29px;
+left: 825px;
+top: 2540px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+
+ #btvyazilim{
+position: absolute;
+left: 1175px;
+top: 2248px;
+
+ }
+
+ #btvyazilimtxt{
+    
+position: absolute;
+width: 155px;
+height: 29px;
+left: 1175px;
+top: 2540px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+
+ #kisiselgelisim{
+  position: absolute;
+left: 122px;
+top: 2598px;
+
+ }
+
+ #kisiselgelisimtxt{
+    position: absolute;
+width: 172px;
+height: 29px;
+left: 142px;
+top: 2887px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+
+ #isletme{
+    position: absolute;
+left: 472px;
+top: 2600px;
+ }
+
+ #isletmetxt{
+    position: absolute;
+width: 87px;
+height: 29px;
+left: 472px;
+top: 2893px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+ }
+
+ #fotografcilik{
+    position: absolute;
+left: 825px;
+top: 2609px;
+ }
+
+
+ #fotografciliktxt{
+
+    position: absolute;
+width: 147px;
+height: 29px;
+left: 825px;
+top: 2901px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+
+ #müzik{
+    
+position: absolute;
+left: 1175px;
+top: 2605px;
+ }
+
+ #müziktxt{
+    
+position: absolute;
+width: 72px;
+height: 29px;
+left: 1179px;
+top: 2901px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+
+ #contanier2{
+    
+position: absolute;
+width: 1651px;
+height: 634px;
+left: -4px;
+top: 2939px;
+
+background: #F6F6F6;
+ }
+
+ #baslik4{
+    
+position: absolute;
+width: 667px;
+height: 48px;
+left: 109px;
+top: 2987px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+ }
+
+ #altbaslik1{
+    
+position: absolute;
+width: 229px;
+height: 44px;
+left: 86px;
+top: 3064px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+
+ #altbaslik2{
+
+    position: absolute;
+width: 155px;
+height: 44px;
+left: 481px;
+top: 3064px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+
+ #altbaslik3{
+    
+position: absolute;
+width: 273px;
+height: 44px;
+left: 887px;
+top: 3064px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+
+ #altbaslik4{
+    position: absolute;
+width: 120px;
+height: 44px;
+left: 1339px;
+top: 3064px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+
+ #konu1{
+    position: absolute;
+width: 105px;
+height: 36px;
+left: 85px;
+top: 3122px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #5019ED;
+
+ }
+
+ #altcizgi{
+    position: absolute;
+width: 109px;
+height: 0px;
+left: 81px;
+top: 3158px;
+
+border: 2px solid #5019ED;
+ }
+
+ #konu1txt{
+    position: absolute;
+width: 146px;
+height: 17px;
+left: 81px;
+top: 3164px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #949494;
+
+ }
+
+ #konu2{
+    position: absolute;
+width: 269px;
+height: 36px;
+left: 81px;
+top: 3201px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #5019ED;
+ }
+
+ #konu2txt{
+    position: absolute;
+width: 136px;
+height: 17px;
+left: 86px;
+top: 3243px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #949494;
+
+ }
+
+ #konu3{
+    position: absolute;
+width: 263px;
+height: 36px;
+left: 82px;
+top: 3280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #5019ED;
+
+ }
+
+ #altcizgi3{
+    position: absolute;
+width: 256px;
+height: 0px;
+left: 82px;
+top: 3316px;
+
+border: 2px solid #5019ED;
+ }
+
+ #konu3txt{
+    
+position: absolute;
+width: 131px;
+height: 17px;
+left: 85px;
+top: 3330px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #949494;
+
+ }
+
+ #konu4{
+    position: absolute;
+width: 265px;
+height: 36px;
+left: 472px;
+top: 3122px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #5019ED;
+
+ }
+
+ #altcizgi4{
+    position: absolute;
+width: 275.5px;
+height: 0px;
+left: 472px;
+top: 3158px;
+
+border: 2px solid #5019ED;
+
+ }
+
+ #konu4txt{
+    position: absolute;
+width: 130px;
+height: 17px;
+left: 472px;
+top: 3167px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #949494;
+
+ }
+
+ #konu5{
+    position: absolute;
+width: 61px;
+height: 36px;
+left: 472px;
+top: 3204px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #5019ED;
+ }
+
+ #altcizgi5{
+    position: absolute;
+width: 60px;
+height: 0px;
+left: 473px;
+top: 3237px;
+
+border: 2px solid #5019ED;
+ }
+
+ #konu5txt{
+    position: absolute;
+width: 131px;
+height: 17px;
+left: 472px;
+top: 3252px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #949494;
+
+ }
+
+ #konu6{
+    position: absolute;
+width: 67px;
+height: 36px;
+left: 472px;
+top: 3284px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #5019ED;
+
+ }
+
+ #altcizgi6{
+    position: absolute;
+width: 60px;
+height: 0px;
+left: 472px;
+top: 3316px;
+
+border: 2px solid #5019ED;
+ }
+
+ #konu6txt{
+    position: absolute;
+width: 133px;
+height: 17px;
+left: 473px;
+top: 3340px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #949494;
+
+ }
+
+ #konu7{
+    position: absolute;
+width: 263px;
+height: 36px;
+left: 887px;
+top: 3128px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #5019ED;
+
+ }
+
+ #altcizgi7{
+
+    position: absolute;
+width: 275.5px;
+height: 0px;
+left: 881px;
+top: 3160px;
+
+border: 2px solid #5019ED;
+ 
+ }
+
+ #konu7txt{
+    
+position: absolute;
+width: 136px;
+height: 17px;
+left: 887px;
+top: 3170px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #949494;
+
+ }
+
+ #konu8{
+    position: absolute;
+width: 228px;
+height: 36px;
+left: 887px;
+top: 3207px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #5019ED;
+
+ }
+
+ #altcizgi8{
+    position: absolute;
+    width: 228px;
+    height: 0px;
+    left: 887px;
+    top: 3243px;
+    
+    border: 2px solid #5019ED;
+    
+ }
+
+ #konu8txt{
+    
+position: absolute;
+width: 142px;
+height: 34px;
+left: 887px;
+top: 3263px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+
+color: #949494;
+
+ }
+
+ #konu9{
+    position: absolute;
+    width: 221px;
+    height: 36px;
+    left: 887px;
+    top: 3298px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    
+    color: #5019ED;
+    
+ }
+
+ #altcizgi9{
+    position: absolute;
+    width: 228px;
+    height: 0px;
+    left: 887px;
+    top: 3334px;
+    
+    border: 2px solid #5019ED;
+ }
+
+ #konu9txt{
+    position: absolute;
+width: 136px;
+height: 34px;
+left: 887px;
+top: 3349px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+
+color: #949494;
+
+ }
+
+ #konu10{
+    position: absolute;
+width: 160px;
+height: 36px;
+left: 1329px;
+top: 3128px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #5019ED;
+
+ }
+
+ #altcizgi10{
+    position: absolute;
+width: 160px;
+height: 0px;
+left: 1329px;
+top: 3164px;
+
+border: 2px solid #5019ED;
+ }
+
+ #konu11{
+    position: absolute;
+width: 225px;
+height: 72px;
+left: 1329px;
+top: 3227px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #5019ED;
+
+ }
+
+ #altcizgi11{
+    position: absolute;
+width: 225px;
+height: 0px;
+left: 1329px;
+top: 3263px;
+
+border: 2px solid #5019ED;
+ }
+
+ #konu11txt{
+    
+position: absolute;
+width: 134px;
+height: 17px;
+left: 1338px;
+top: 3277px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #949494;
+
+ }
+
+ #konu12{
+    position: absolute;
+width: 123px;
+height: 36px;
+left: 1329px;
+top: 3311px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #5019ED;
+
+ }
+
+ #altcizgi12{
+    position: absolute;
+width: 123px;
+height: 0px;
+left: 1329px;
+top: 3349px;
+
+border: 2px solid #5019ED;
+
+ }
+
+ #konu12txt{
+    position: absolute;
+width: 135px;
+height: 17px;
+left: 1338px;
+top: 3361px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #949494;
+
+ }
+
+ #konubtn{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 201px;
+height: 40px;
+left: 89px;
+top: 3387px;
+
+background: #E2E2E2;
+border: 1px solid #000000;
+ }
+
+ #konubtntxt{
+    
+position: absolute;
+width: 184px;
+height: 17px;
+left: 98px;
+top: 3398px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+
+ #abiimg{
+    position: absolute;
+left: 228px;
+top: 3612px;
+
+ }
+
+ #abibaslik{
+    position: absolute;
+width: 271px;
+height: 50px;
+left: 854.58px;
+top: 3846px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 41.1639px;
+line-height: 50px;
+/* identical to box height */
+
+
+color: #000000;
+
+ }
+
+ #abitxt{
+    
+position: absolute;
+width: 618px;
+height: 132px;
+left: 834px;
+top: 3910.03px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 27.4426px;
+line-height: 33px;
+
+color: #000000;
+
+ }
+
+ #abibtn{
+    position: absolute;
+width: 501.97px;
+height: 73.18px;
+left: 834px;
+top: 4051.82px;
+
+background: #000000;
+ }
+
+ #abibtntxt{
+    position: absolute;
+width: 428px;
+height: 33px;
+left: 871.73px;
+top: 4071.26px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 27.4426px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+ }
+
+ #contanier3{
+    
+position: absolute;
+width: 1651px;
+height: 194px;
+left: -4px;
+top: 4255px;
+
+background: #F9F9F9;
+ }
+
+ #baslik5{
+    
+position: absolute;
+width: 531px;
+height: 33px;
+left: 532px;
+top: 4278px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 27.4426px;
+line-height: 33px;
+
+color: #000000;
+
+ }
+
+ #txt{
+    position: absolute;
+width: 872px;
+height: 19px;
+left: 386px;
+top: 4321px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #7C7C7C;
+
+ }
+
+ #logo2{
+    position: absolute;
+left: 391px;
+top: 4708px;
+
+ }
+
+ #logoyazi{
+    position: absolute;
+width: 238px;
+height: 70px;
+left: 584px;
+top: 4715px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 57.7612px;
+line-height: 70px;
+/* identical to box height */
+
+
+color: #5019ED;
+
+ }
+
+ #ablaimg{
+    
+position: absolute;
+left: 938px;
+top: 4535px;
+
+ }
+
+ #ubtxt{
+    
+position: absolute;
+width: 525px;
+height: 145px;
+left: 386px;
+top: 4778px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+ }
+
+ #ubbox{
+    position: absolute;
+width: 343px;
+height: 73px;
+left: 386px;
+top: 4933px;
+
+background: #000000;
+ }
+
+ #ubboxtxt{
+    position: absolute;
+width: 327px;
+height: 33px;
+left: 394px;
+top: 4953px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 27.4426px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+ }
+
+ #bune{
+    position: absolute;
+left: 342px;
+top: 5153px;
+ }
+
+ #bunebaslik{
+    
+position: absolute;
+width: 368px;
+height: 100px;
+left: 987px;
+top: 5191px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 41.1639px;
+line-height: 50px;
+
+color: #000000;
+
+ }
+
+ #bunetxt{
+    position: absolute;
+width: 580px;
+height: 165px;
+left: 978px;
+top: 5305px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 27.4426px;
+line-height: 33px;
+
+color: #000000;
+
+ }
+
+ #bunebtn{
+    position: absolute;
+width: 324px;
+height: 73px;
+left: 963px;
+top: 5448px;
+
+background: #000000;
+ }
+
+ #bunebtntxt{
+    position: absolute;
+width: 310px;
+height: 33px;
+left: 970px;
+top: 5470px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 27.4426px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+ }
+
+ #contanier4{
+    
+    position: absolute;
+    width: 1644px;
+    height: 474px;
+    left: -48px;
+    top: 5798px;
+    
+    background: #2F2F2F
+
+ }
+
+ #footertxt{
+    position: absolute;
+width: 460px;
+height: 58px;
+left: 544px;
+top: 5995px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+ }
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
